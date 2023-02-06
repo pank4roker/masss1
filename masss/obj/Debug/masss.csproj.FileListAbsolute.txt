@@ -1,0 +1,8 @@
+D:\115\masss\bin\Debug\masss.exe.config
+D:\115\masss\bin\Debug\masss.exe
+D:\115\masss\bin\Debug\masss.pdb
+D:\115\masss\obj\Debug\masss.csproj.AssemblyReference.cache
+D:\115\masss\obj\Debug\masss.csproj.SuggestedBindingRedirects.cache
+D:\115\masss\obj\Debug\masss.csproj.CoreCompileInputs.cache
+D:\115\masss\obj\Debug\masss.exe
+D:\115\masss\obj\Debug\masss.pdb
